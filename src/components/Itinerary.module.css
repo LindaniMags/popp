@@ -1,0 +1,634 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mac-book-air3 {
+  width: 100%;
+  height: 1036px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.accountcircle {
+  top: 31px;
+  left: 978px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.accountcircle1 {
+  top: 5.000097751617432px;
+  left: 5.000097751617432px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.cairns-boat-tours11 {
+  top: 0px;
+  left: -12px;
+  width: 1292px;
+  height: 1036px;
+  position: absolute;
+}
+.rectangle132 {
+  top: 75px;
+  left: 145px;
+  width: 999px;
+  height: 739px;
+  position: absolute;
+  border-radius: 20px;
+}
+.r45 {
+  top: 743px;
+  left: 661px;
+  width: 45px;
+  height: 37px;
+  position: absolute;
+}
+.oip46 {
+  top: 746px;
+  left: 533px;
+  width: 35px;
+  height: 34px;
+  position: absolute;
+}
+.bed {
+  top: 471px;
+  left: 351px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.bed1 {
+  top: 5px;
+  left: 1.9999998807907104px;
+  width: 20px;
+  height: 14px;
+  position: absolute;
+}
+.brightness1 {
+  top: 459px;
+  left: 338px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.brightness11 {
+  top: 4.166666507720947px;
+  left: 4.166666507720947px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.text {
+  top: 473px;
+  left: 256px;
+  color: rgba(0, 0, 0, 0.38999998569488525);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text02 {
+  top: 469px;
+  left: 414px;
+  color: rgba(0, 0, 0, 0.38999998569488525);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text04 {
+  top: 505px;
+  left: 420px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text06 {
+  top: 505px;
+  left: 552px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text08 {
+  top: 505px;
+  left: 700px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text10 {
+  top: 528px;
+  left: 601px;
+  color: rgba(176, 169, 169, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text11 {
+  top: 528px;
+  left: 421px;
+  color: rgba(176, 169, 169, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text13 {
+  top: 524px;
+  left: 700px;
+  color: rgba(176, 169, 169, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vector75 {
+  top: 488px;
+  left: 851px;
+  width: 0px;
+  height: 64px;
+  position: absolute;
+}
+.morevert {
+  top: 504px;
+  left: 351px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.morevert01 {
+  top: 4px;
+  left: 10px;
+  width: 4px;
+  height: 16px;
+  position: absolute;
+}
+.morevert02 {
+  top: 526px;
+  left: 351px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.morevert03 {
+  top: 4px;
+  left: 10px;
+  width: 4px;
+  height: 16px;
+  position: absolute;
+}
+.morevert04 {
+  top: 550px;
+  left: 351px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.morevert05 {
+  top: 4px;
+  left: 10px;
+  width: 4px;
+  height: 16px;
+  position: absolute;
+}
+.text15 {
+  top: 697px;
+  left: 421px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text17 {
+  top: 413px;
+  left: 453px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text19 {
+  top: 408px;
+  left: 314px;
+  color: rgba(4, 116, 35, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bed2 {
+  top: 286px;
+  left: 350px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.bed3 {
+  top: 5px;
+  left: 1.9999998807907104px;
+  width: 20px;
+  height: 14px;
+  position: absolute;
+}
+.brightness12 {
+  top: 274px;
+  left: 337px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.brightness13 {
+  top: 4.166666507720947px;
+  left: 4.166666507720947px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.text21 {
+  top: 288px;
+  left: 256px;
+  color: rgba(0, 0, 0, 0.38999998569488525);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text23 {
+  top: 286px;
+  left: 414px;
+  color: rgba(0, 0, 0, 0.38999998569488525);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text25 {
+  top: 320px;
+  left: 419px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text27 {
+  top: 320px;
+  left: 551px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text29 {
+  top: 320px;
+  left: 699px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text31 {
+  top: 343px;
+  left: 600px;
+  color: rgba(176, 169, 169, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text32 {
+  top: 343px;
+  left: 420px;
+  color: rgba(176, 169, 169, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text34 {
+  top: 339px;
+  left: 699px;
+  color: rgba(176, 169, 169, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vector76 {
+  top: 288px;
+  left: 850px;
+  width: 0px;
+  height: 64px;
+  position: absolute;
+}
+.morevert06 {
+  top: 319px;
+  left: 350px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.morevert07 {
+  top: 4px;
+  left: 10px;
+  width: 4px;
+  height: 16px;
+  position: absolute;
+}
+.morevert08 {
+  top: 341px;
+  left: 350px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.morevert09 {
+  top: 4px;
+  left: 10px;
+  width: 4px;
+  height: 16px;
+  position: absolute;
+}
+.morevert10 {
+  top: 365px;
+  left: 350px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.morevert11 {
+  top: 4px;
+  left: 10px;
+  width: 4px;
+  height: 16px;
+  position: absolute;
+}
+.text36 {
+  top: 220px;
+  left: 307px;
+  color: rgba(4, 116, 35, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text38 {
+  top: 225px;
+  left: 447px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.r213 {
+  top: 286px;
+  left: 883px;
+  width: 132px;
+  height: 68px;
+  position: absolute;
+}
+.r214 {
+  top: 492px;
+  left: 883px;
+  width: 132px;
+  height: 68px;
+  position: absolute;
+}
+.rectangle133 {
+  top: 601px;
+  left: 312px;
+  width: 300px;
+  height: 60px;
+  position: absolute;
+  border-radius: 20px;
+}
+.text40 {
+  top: 615px;
+  left: 372.039794921875px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rectangle136 {
+  top: 601px;
+  left: 674px;
+  width: 300px;
+  height: 60px;
+  position: absolute;
+  border-radius: 20px;
+}
+.text42 {
+  top: 615.02734375px;
+  left: 755.0400390625px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
