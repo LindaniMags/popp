@@ -18,36 +18,56 @@ const Options = () => {
         </div>
 
         <div className="items">
-          <Link to="/processing">
+          <a
+            href="https://lindanimags.github.io/popp/"
+            rel="noopener"
+            target="_blank"
+          >
             <div className="item">
               <RiShieldUserLine className="opt-icons" />
               <h2>Travel insurance</h2>
             </div>
-          </Link>
-          <Link to="/processing">
+          </a>
+          <a
+            href="https://lindanimags.github.io/popp/"
+            rel="noopener"
+            target="_blank"
+          >
             <div className="item">
               <LuBedDouble className="opt-icons" />
               <h2>Hotel</h2>
             </div>
-          </Link>
-          <Link to="/processing">
+          </a>
+          <a
+            href="https://lindanimags.github.io/popp/"
+            rel="noopener"
+            target="_blank"
+          >
             <div className="item">
               <MdOutlineAttractions className="opt-icons" />
               <h2>Attractions</h2>
             </div>
-          </Link>
-          <Link to="/processing">
+          </a>
+          <a
+            href="https://lindanimags.github.io/popp/"
+            rel="noopener"
+            target="_blank"
+          >
             <div className="item">
               <MdOutlineAirplanemodeActive className="opt-icons" />
               <h2>Flights</h2>
             </div>
-          </Link>
-          <Link to="/processing">
+          </a>
+          <a
+            href="https://lindanimags.github.io/popp/"
+            rel="noopener"
+            target="_blank"
+          >
             <div className="item">
               <MdOutlineCarRental className="opt-icons" />
               <h2>Car Rental</h2>
             </div>
-          </Link>
+          </a>
         </div>
       </div>
     </div>
