@@ -20,6 +20,7 @@ function Pop({ isOpen, handleClose }) {
         <Route path="options" element={<Options />} />
         <Route path="processing" element={<Processing />} />
         <Route path="itinerary" element={<Itinerary />} />
+        <Route path="form" element={<Form />} />
       </Routes>
       <div className="popup_inner">
         <Link to="/">
