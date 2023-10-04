@@ -18,44 +18,30 @@ const Options = () => {
         </div>
 
         <div className="items">
-          <Link
-            to="/form"
-          >
+          <Link to="/form">
             <div className="item">
               <RiShieldUserLine className="opt-icons" />
               <h2>Travel insurance</h2>
             </div>
           </Link>
-          <a
-            href="https://lindanimags.github.io/carland/"
-            rel="noopener"
-            target="_blank"
-          >
+          <Link to="/form">
             <div className="item">
               <LuBedDouble className="opt-icons" />
               <h2>Hotel</h2>
             </div>
-          </a>
-          <a
-            href="https://lindanimags.github.io/carland/"
-            rel="noopener"
-            target="_blank"
-          >
+          </Link>
+          <Link to="/form">
             <div className="item">
               <MdOutlineAttractions className="opt-icons" />
               <h2>Attractions</h2>
             </div>
-          </a>
-          <a
-            href="https://lindanimags.github.io/carland/"
-            rel="noopener"
-            target="_blank"
-          >
+          </Link>
+          <Link to="/form">
             <div className="item">
               <MdOutlineAirplanemodeActive className="opt-icons" />
               <h2>Flights</h2>
             </div>
-          </a>
+          </Link>
           <a
             href="https://lindanimags.github.io/carland/"
             rel="noopener"

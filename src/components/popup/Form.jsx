@@ -55,7 +55,7 @@ const Form = () => {
           </div>
           <div className={styles.search}>
             <BiSearchAlt />
-            <button>Search</button>
+            <button className={styles.button}>Search</button>
           </div>
         </div>
       </div>
